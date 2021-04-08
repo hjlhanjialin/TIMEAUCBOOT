@@ -2,7 +2,7 @@
 /*       NAME: TIMEAUCBOOT.SAS                                         				  	    */
 /*      TITLE: A SAS Macro to Perform Bootstrapping for Internal Validation of Time-Dependent Area Under the Curve          */
 /*     AUTHOR: Jialin Han, Stanford University                                          	            */
-/*   Software: SAS Enterprise 7.1											    */
+/*   Software: SAS Enterprise 7.1									    */
 /*  CREATE ON: Dec 2020                                      					    	    */
 /*  UPDATE ON: Apr 2021											    */
 /*DESCRIPTION: This program generate validated time dependent AUC by bootstrap method. 			    */
