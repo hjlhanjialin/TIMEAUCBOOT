@@ -14,6 +14,7 @@ SEED=	Random control seed. The default is 123.
 METHOD=KM	Methods of estimating time-dependent AUC. Currently only the Kaplan-Meier method is available. 
 
 # Macro Code example
+The following code used TRAC.csv file.
 %TIMEAUCBOOT(
 	DT		=	TRAC, 	
 	TIMEPOINT 	= 	365, 
